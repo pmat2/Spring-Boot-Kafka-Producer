@@ -8,5 +8,5 @@ Spring Boot
 - Lombok
 - Jackson
 
-Kafka run in docker:
+Kafka ran in docker:
 [link](https://developer.confluent.io/quickstart/kafka-docker/)
